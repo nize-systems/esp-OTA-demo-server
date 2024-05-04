@@ -1,12 +1,8 @@
 {
   "Configurations": [
     {
-      "Version": "0.0.1",
-      "URL": "https://nize-systems.github.io/esp-OTA-demo-server/ota1code.bin"
-    },
-    {
       "Version": "0.0.2",
-      "URL": "https://nize-systems.github.io/esp-OTA-demo-server/ota2code.bin"
+      "URL": "https://nize-systems.github.io/esp-OTA-demo-server/otaNew2Code.bin"
     }
   ]
 }
