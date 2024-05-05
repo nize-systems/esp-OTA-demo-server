@@ -3,6 +3,10 @@
     {
       "Version": "0.0.2",
       "URL": "https://nize-systems.github.io/esp-OTA-demo-server/otaNew2Code.bin"
+    },
+    {
+      "Version": "0.0.3",
+      "URL": "https://nize-systems.github.io/esp-OTA-demo-server/esptests.ino.bin"
     }
   ]
 }
