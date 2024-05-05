@@ -2,7 +2,7 @@
   "Configurations": [
     
     {
-      "Version": "0.0.3",
+      "Version": "0.0.0",
       "URL": "https://nize-systems.github.io/esp-OTA-demo-server/esptests.ino.bin"
     }
   ]
