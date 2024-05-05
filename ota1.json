@@ -6,7 +6,7 @@
     },
     {
       "Version": "0.0.3",
-      "URL": "https://nize-systems.github.io/esp-OTA-demo-server/esptests.ino.bin"
+      "URL": "https://nize-systems.github.io/esp-OTA-demo-server/esp32.ino.bin"
     }
   ]
 }
